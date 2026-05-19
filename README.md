@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🎮 Actualmente: juego de adivinanzas en Python → [`juego.py`](./juego.py)
+
 <!--
 **poeta2475/poeta2475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
